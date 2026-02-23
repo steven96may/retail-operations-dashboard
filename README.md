@@ -42,4 +42,4 @@ Deep discounting is strongly associated with negative profitability:
 ![Profit Margin by Discount Level](images/discount_margin.png)
 
 ### Profit by Sub-Category
-![Profit by Sub-Category](images/profit_by_subcategory.png)
+![Profit by Sub-Category](images/profit_by_sub-category.png)
